@@ -170,8 +170,3 @@ This project is licensed under the MIT License.
 - OpenCV
 - MediaPipe
 - Python Community
-## Project Output
-
-### Ball Detection Result
-
-![Ball Detection Screenshot](screenshots/ball_detection_output.png)
